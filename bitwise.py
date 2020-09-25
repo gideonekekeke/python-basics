@@ -1,0 +1,5 @@
+#bitwise is mostly used in cryptography
+
+# AND
+# OR IF ONE OF THE OPERATION IS TRUE THEN ITS TRUE
+# XOR IF ANY OF THE OPERATION IS TRUE THEN ITS TRUE
