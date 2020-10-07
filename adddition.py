@@ -13,6 +13,14 @@ z = 11//3
 print(z)
 
 
+# making this file a dynamic content
+firstNumber = int(input('Enter your first number: '))
+secondNumber = int(input('Enter your second number: '))
+sum = firstNumber + secondNumber
+
+print('the sum of the two numbers is: ', sum)
+
+
 
 
 
